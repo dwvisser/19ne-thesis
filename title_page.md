@@ -3,7 +3,7 @@ title: Title Page
 layout: default
 ---
 
-# Particle Decay Branching Ratios for States of Astrophysical Importance in <sup>19</sup>Ne
+Particle Decay Branching Ratios for States of Astrophysical Importance in <sup>19</sup>Ne
 {: .title-block}
 
 <div class="title-block">
@@ -12,5 +12,22 @@ Presented to the Faculty of the Graduate School <br/>
 of<br/>
 Yale University <br />
 in Candidacy for the Degree of <br />
-Doctor of Philosophy <br />
+Doctor of Philosophy
 </div>
+
+<div class="title-block">
+By <br />
+Dale William Visser
+</div>
+
+Dissertation Director: Peter D. Parker
+{: .title-block}
+
+DECEMBER 2003
+{: .title-block}
+
+© 2002, Dale William Visser. This work, originally published as "Particle 
+Decay Branching Ratios for States of Astrophysical Importance in 
+<sup>19</sup>Ne" is distributed under the terms of the [Public Library of 
+Science Open Access License version 1.0b](/license/), 
+a copy of witch can be found at http://publiclibraryofscience.org/.
