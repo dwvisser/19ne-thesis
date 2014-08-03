@@ -1,9 +1,11 @@
 ---
 title: Title Page
+permalink: /title-page/
 layout: default
 ---
 
-Particle Decay Branching Ratios for States of Astrophysical Importance in <sup>19</sup>Ne
+Particle Decay Branching Ratios for States of Astrophysical Importance in
+<sup>19</sup>Ne
 {: .title-block}
 
 <div class="title-block">
@@ -30,4 +32,4 @@ DECEMBER 2003
 Decay Branching Ratios for States of Astrophysical Importance in 
 <sup>19</sup>Ne" is distributed under the terms of the [Public Library of 
 Science Open Access License version 1.0b](/license/), 
-a copy of witch can be found at http://publiclibraryofscience.org/.
+a copy of which can be found at http://publiclibraryofscience.org/.
