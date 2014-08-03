@@ -24,7 +24,12 @@ layout: default
     $ git fetch origin
     $ git checkout gh-pages
 
-Having trouble with Pages? Check out the documentation at [http://help.github.com/pages"](http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
+Having trouble with Pages? Check out the documentation at 
+[http://help.github.com/pages](http://help.github.com/pages) or contact 
+[support@github.com](mailto:support@github.com) and we’ll help you sort it
+out.
 
-<p>This project is maintained by <a href="https://github.com/dwvisser">dwvisser</a></p>
-<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+This project is maintained by [dwvisser](https://github.com/dwvisser).
+
+<p><small>Hosted on GitHub Pages &mdash; Theme by 
+  <a href="https://github.com/orderedlist">orderedlist</a></small></p>
