@@ -1,8 +1,29 @@
 body {
 	font-family: 'EB Garamond', serif;
+	color: black;
 }
 
 .title-block {
 	text-align: center;
-	margin-bottom: 3em;
+	margin-bottom: 1em;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
+
+.text {
+	columns: 30em;
+	-moz-columns: 30em;
+	-webkit-columns: 30em;
+	column-rule: thin solid gray;
+	-moz-column-rule: thin solid gray;
+	-webkit-column-rule: thin solid gray;
+}
+
+h2 {
+  break-before: column; 
+  break-after: avoid-column;
+  -moz-break-before: column; 
+  -moz-break-after: avoid-column;
 }

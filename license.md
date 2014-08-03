@@ -4,20 +4,21 @@ permalink: /license/
 layout: default
 ---
 
-<div class="title-block">
+<h1 class="title-block">
 PUBLIC LIBRARY OF SCIENCE OPEN ACCESS LICENSE<br/>
 VERSION 1.0b DECEMBER 1, 2002
-</div>
+</h1>
 
+<div class="text">
 <p><i>This document is in the Public Domain, and may be reproduced and redistributed for any purpose.</i></p>
 
-<p>I.	PREAMBLE</p>
+<h2>I.	PREAMBLE</h2>
 
 <p>The purpose of this Public Library of Science Open Access License (referred to here as "the License") is to encourage, and to facilitate, the free and unfettered distribution of scientific and medical research around the globe.  Permanent, archival records of that research should belong to the public, and should be freely available to all.  To that end, the License is meant to ensure that the information contained in any work to which the License applies will be effectively placed into, and will remain in, the public domain.</p>
 
 <p>Works to which the License applies may be reproduced, distributed, and used for any purpose without restriction, subject only to the condition that any reproduction or redistribution of copies of the work must itself be subject to this License.   [See "Terms and Conditions," below]</p>
 
-<p>II.	HOW TO USE THIS LICENSE</p>
+<h2>II.	HOW TO USE THIS LICENSE</h2>
 
 <p>At a minimum, any author(s) wishing to distribute their work(s) under the terms of this License must include the following notice ("the Notice") in all copies of the work under their control:
 <blockquote>
@@ -39,7 +40,7 @@ In addition, authors are encouraged to supply archival information (e.g., "This 
 </blockquote>
 </p>
 
-<p>III.	TERMS AND CONDITIONS</p>
+<h3>III.	TERMS AND CONDITIONS</h3>
 
 <p>This License applies to any work ("the Work") to which a notice is affixed stating that it is released under the terms of the Public Library of Science Open Access License ("the Notice"). </p>
 
@@ -59,6 +60,7 @@ of the Work, or any significant portion thereof:
 
 <p>The aggregation of the Work with other works which are not based on the Work - such as but not limited to inclusion in a publication, database, broadcast, compilation, or other media - does not bring the other works in the scope of the License, nor does such aggregation void the terms of the License for the Work.  </p>
 
+</div>
 <hr size="1" noshade width="80%" align="center">
 
 <p align="center">

@@ -26,6 +26,7 @@ $ git checkout gh-pages
 ### Links to contents
 * [Title Page]({{site.baseurl}}/title-page)
 * [License]({{site.baseurl}}/license)
+* [Abstract]({{site.baseurl}}/abstract)
 
 <p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
 
