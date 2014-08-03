@@ -1,7 +1,22 @@
 body {
 	font-family: 'EB Garamond', serif;
 	color: black;
-	max-width: 45em;
+	width: 600px;
+}
+
+/* for 980px or less */
+@media screen and (max-width: 980px) {
+	body {
+		width: 65%;
+	}
+}
+
+/* for 700px or less */
+@media screen and (max-width: 700px) {
+	body {
+		width: auto;
+		float: none;
+	}
 }
 
 .title-block {
