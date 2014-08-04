@@ -3,22 +3,20 @@ title: Index
 layout: default
 ---
 
-# dwvisser/19ne-thesis
+# Particle Decay Branching Ratios for States of Astrophysical Importance in 19-Ne
 
-## Dissertation: Particle Decay Branching Ratios for States of Astrophysical Importance in 19-Ne
-
-### Site Contents
+## Site Contents
 * [Title Page]({{site.baseurl}}/title-page)
 * [License]({{site.baseurl}}/license)
 * [Abstract]({{site.baseurl}}/abstract)
 
-### GitHub Project
+## GitHub Project
 
 * [dwvisser/19ne-thesis](https://github.com/dwvisser/19ne-thesis)
 * Download [ZIP File](https://github.com/dwvisser/19ne-thesis/zipball/master)
 * Download [TAR Ball](https://github.com/dwvisser/19ne-thesis/tarball/master)
 
-### Once you've cloned the repo:
+## Once you've cloned the repo:
 
     $ cd your_repo_root/repo_name
     $ git fetch origin
