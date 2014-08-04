@@ -2,6 +2,8 @@ body {
 	font-family: 'EB Garamond', serif;
 	color: black;
 	width: 600px;
+	margin-left: auto;
+	margin-right:auto;
 }
 
 /* for 980px or less */
