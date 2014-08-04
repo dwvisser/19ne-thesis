@@ -33,4 +33,4 @@ Decay Branching Ratios for States of Astrophysical Importance in
 <sup>19</sup>Ne" is distributed under the terms of the Public Library of 
 Science Open Access License version 1.0b, a copy of which 
 [is attached]({{site.baseurl}}/license/). This work is permanently 
-archived at [{{site.baseurl}}]({{site.baseurl}}).
+archived at [{{site.baseurl}}](http://dwvisser.github.io/19ne-thesis/).
