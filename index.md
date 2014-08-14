@@ -10,6 +10,7 @@ layout: default
 * [License]({{site.baseurl}}/license/)
 * [Abstract]({{site.baseurl}}/abstract/)
 * [Acknowledgements]({{site.baseurl}}/acknowledgements/)
+* [Dedication]({{site.baseurl}}/dedication/)
 
 ## GitHub Project
 
