@@ -1,9 +1,18 @@
 body {
 	font-family: 'EB Garamond', serif;
-	color: black;
+	font-size: 18px;
 	width: 600px;
 	margin-left: auto;
 	margin-right:auto;
+}
+
+body, h1, h2 {
+	color: #555;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
 }
 
 /* for 980px or less */
