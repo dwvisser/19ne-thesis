@@ -11,6 +11,9 @@ layout: default
 * [Abstract]({{site.baseurl}}/abstract/)
 * [Acknowledgements]({{site.baseurl}}/acknowledgements/)
 * [Dedication]({{site.baseurl}}/dedication/)
+* Chapter 1: Introduction to Explosive Nucleosynthesis
+    + [§1.1 Stellar nucleosynthesis]({{site.baseurl}}/1.1/)
+* [Bibliography]({{site.baseurl}}/bibliography/)
 
 ## GitHub Project
 
