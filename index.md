@@ -6,9 +6,10 @@ layout: default
 # Particle Decay Branching Ratios for States of Astrophysical Importance in <sup>19</sup>Ne
 
 ## Site Contents
-* [Title Page]({{site.baseurl}}/title-page)
-* [License]({{site.baseurl}}/license)
-* [Abstract]({{site.baseurl}}/abstract)
+* [Title Page]({{site.baseurl}}/title-page/)
+* [License]({{site.baseurl}}/license/)
+* [Abstract]({{site.baseurl}}/abstract/)
+* [Acknowledgements]({{site.baseurl}}/acknowledgements/)
 
 ## GitHub Project
 
