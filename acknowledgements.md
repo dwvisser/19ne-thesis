@@ -57,7 +57,7 @@ Kraus, Julie Kraus, Sylvia Sanders and Alice Hobolth ("Grammy") have provided
 me with a family and support network in New Haven. Uncountable moral and 
 financial support for my education has come from my parents, Howard and
 Georgia Visser, as well as from my uncle, Richard Hilliker. My sister, 
-Heather, has been my good friend an my clesest confidant throughout graduate
+Heather, has been my good friend an my closest confidant throughout graduate
 school, despite our 800-mile separation. Finally, I am profoundly grateful to
 my grandfather, Fred Froman, whose generosity towards his grandchildren in his
 estate allowed me to pursue my education without ever having to worry about
