@@ -43,3 +43,15 @@ a {
 span.nowrap{
 	white-space: nowrap;
 }
+
+.equation td {
+ 	padding-left: 3em;
+}
+
+.equation th {
+	padding-right: 3em;
+}
+
+.equation td, .equation th {
+	border-style: none;
+}
