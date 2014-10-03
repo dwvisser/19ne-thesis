@@ -4,7 +4,7 @@
 }
 
 body {
-	font-family: 'EB Garamond', serif;
+	font-family: serif;
 	width: 600px;
 	margin-left: auto;
 	margin-right:auto;
@@ -68,4 +68,8 @@ span.nowrap{
 	margin-left: 8%;
 	max-width: 84%;
 	text-align: justify;
+}
+
+ul ul li {
+	list-style-type: none;
 }
