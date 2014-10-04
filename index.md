@@ -38,6 +38,13 @@ Site Contents
   E<sub>x</sub>=4.600 MeV (pending)
 * [Bibliography]({{site.baseurl}}/bibliography/) (under construction)
 
+Format Notes
+------------
+As I've transcribed my thesis to this site from the original published
+version, I have tried to format it similarly to the original. However, I do
+occasionally make small corrections. I've highlighted these with
+<span class="correction">distinct formatting</span>.
+
 GitHub Project
 --------------
 
