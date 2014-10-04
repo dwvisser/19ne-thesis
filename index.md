@@ -19,15 +19,18 @@ Site Contents
       construction)
     + §1.2 White dwarves and novae (pending)
     + §1.3 Neutron stars and x-ray bursters (pending)
-* Chapter 2: Present Status of ¹⁹Ne's role in Nuclear Astrophysics (pending)
+* Chapter 2: Present Status of <sup>19</sup>Ne's role in Nuclear Astrophysics
+  (pending)
     + §2.1 Nuclear burning through resonances
-    + §2.2 Production of ¹⁹F in Novae
-        + §2.2.1 Sensitivity to resonances in ¹⁹Ne
-        + §2.2.2 Proton resonances in ¹⁹Ne
-    + §2.3 Breakout from HotCNO via <span class="nowrap">¹⁵O(α,γ)</span>
+    + §2.2 Production of <sup>19</sup>F in Novae
+        + §2.2.1 Sensitivity to resonances in <sup>19</sup>Ne
+        + §2.2.2 Proton resonances in <sup>19</sup>Ne
+    + §2.3 Breakout from HotCNO via 
+      <span class="nowrap"><sup>15</sup>O(α,γ)</span>
     + §2.4 Summary
 * Chapter 3: Experimental Setup for 
-  <span class="nowrap">¹⁹F(³He,t)¹⁹Ne(x<sub>1</sub>)x₂</span> (pending)
+  <span class="nowrap"><sup>19</sup>F(³He,t)<sup>19</sup>Ne(x<sub>1</sub>)x<sub>2</sub></span>
+  (pending)
 * Chapter 4: Results and Analysis (pending)
 * Chapter 5: Discussion and Conclusions (pending)
 * Appendix A: Monte Carlo Algorithm for Determining Efficiency (pending)

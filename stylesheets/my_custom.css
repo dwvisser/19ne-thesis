@@ -4,15 +4,20 @@
 }
 
 body {
-	font-family: serif;
+	font-family: 'EB Garamond', serif;
 	width: 600px;
 	margin-left: auto;
 	margin-right:auto;
+	color: #444;
 }
 
 a {
 	text-decoration: none;
-	color: #000;
+	color: #333;
+}
+
+a[href], a[href] strong {
+	color: #0E4C92;
 }
 
 /* for 980px or less */
