@@ -28,7 +28,7 @@ measured. For this study, <sup>19</sup>Ne was populated via the
 ³He beam incident on 80 μg/cm² of CaF<sub>2</sub> deposited on 10 μg/cm² of
 carbon. A large area segmented silicon array, the Yale LampShade Array (YLSA),
 was assembled for the purpose of measuring proton- and α-decays from
-astrophysically relevant states in <sup>19</sup>Ne. The reacction rates are
+astrophysically relevant states in <sup>19</sup>Ne. The reaction rates are
 linearly dependent on the branching ratios to these channels. YLSA detected
 the decay particles at backward lab angles in coincidence with tritons at
 θ=0°. Angular distributions were fit to the coincidence data, and integrated
