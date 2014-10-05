@@ -86,3 +86,15 @@ ul {
 .correction {
 	color: #9F4EAD;
 }
+
+cite {
+	font-style: normal;
+}
+
+blockquote {
+	border-left: none;
+}
+
+blockquote cite {
+	font-style: italic;
+}
