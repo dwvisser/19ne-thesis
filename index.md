@@ -3,8 +3,8 @@ title: Index
 layout: default
 ---
 
-Particle Decay Branching Ratios for States of Astrophysical Importance in ¹⁹Ne
-==============================================================================
+Particle Decay Branching Ratios for States of Astrophysical Importance in <sup>19</sup>Ne
+=========================================================================================
 
 Site Contents
 -------------
