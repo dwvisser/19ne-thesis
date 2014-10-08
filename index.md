@@ -1,5 +1,5 @@
 ---
-title: Index
+title: Ne-19 Thesis
 layout: default
 ---
 
