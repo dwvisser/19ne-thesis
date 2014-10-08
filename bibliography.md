@@ -15,9 +15,12 @@ layout: default
   <sup>8</sup>B and hep neutrino measurements from 1258 days of
   Super-Kamiokande data." [Physical Review Letters __86__(25):
   5651-5655](http://dx.doi.org/10.1103/PhysRevLett.86.5651).
+* <a name="marschall">Marschall, L. A. (1988)</a>. Why Stars Explode. [The 
+  Supernova Story](http://isbndb.com/book/the_supernova_story). Princeton, NJ,
+  Princeton University Press: 129.
 * <a name="rolfs">Rolfs, C. E. and W. S. Rodney (1988)</a>. [Cauldrons in the
-  Cosmos](http://www.amazon.com/Cauldrons-Cosmos-Nuclear-Astrophysics-Theoretical/dp/0226724573).
-  Chicago and London, The University of Chicago Press.
+  Cosmos](http://isbndb.com/book/cauldrons_in_the_cosmos_a01). Chicago and
+  London, The University of Chicago Press.
 * <a name="weischer">Wiescher, M., J. Görres, et al. (1999)</a> "Break-out
   reactions from the CNO cycles." [J. Phys. G: Nucl. Part. Phys. 
   __25__: R133-161](http://dx.doi.org/10.1088/0954-3899/25/6/201).
