@@ -11,6 +11,10 @@ layout: default
   <sup>8</sup>B solar neutrinos at the Sudbury Neutrino Observatory."
   [Physical Review
   Letters __87__(7)](http://dx.doi.org/10.1103/PhysRevLett.87.071301).
+* <a name="chandrasekhar">Chandrasekhar, S. (1939)</a>. [An
+  introduction to the Study of Stellar
+  Structure](http://isbndb.com/book/introduction_to_the_study_of_stellar_structure).
+  Chicago, University of Chicago Press.
 * <a name="fukuda">Fukuda, S., Y. Fukuda, et al. 2001</a>. "Solar
   <sup>8</sup>B and hep neutrino measurements from 1258 days of
   Super-Kamiokande data." [Physical Review Letters __86__(25):
