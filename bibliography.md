@@ -22,6 +22,9 @@ layout: default
 * <a name="marschall">Marschall, L. A. (1988)</a>. Why Stars Explode. [The 
   Supernova Story](http://isbndb.com/book/the_supernova_story). Princeton, NJ,
   Princeton University Press: 129.
+* <a name="pathria">Pathria, R. K. (1996)</a>. [Statistical
+  Mechanics](http://store.elsevier.com/product.jsp?isbn=9780080541716&pagename=search).
+  Oxford, Butterworth-Heineman.
 * <a name="rolfs">Rolfs, C. E. and W. S. Rodney (1988)</a>. [Cauldrons in the
   Cosmos](http://isbndb.com/book/cauldrons_in_the_cosmos_a01). Chicago and
   London, The University of Chicago Press.
