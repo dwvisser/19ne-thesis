@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mfrac>
+    <mrow>
+     <mi>d</mi>
+     <mover accent="true">
+      <mi>ε</mi>
+      <mo stretchy="false">˙</mo>
+     </mover>
+    </mrow>
+    <mi mathvariant="italic">dT</mi>
+   </mfrac>
+   <mo stretchy="false">&gt;</mo>
+   <mrow>
+    <mo fence="true" stretchy="true">|</mo>
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mi>d</mi>
+       <msub>
+        <mover accent="true">
+         <mi>ε</mi>
+         <mo stretchy="false">˙</mo>
+        </mover>
+        <mi mathvariant="italic">cool</mi>
+       </msub>
+      </mrow>
+      <mi mathvariant="italic">dT</mi>
+     </mfrac>
+    </mrow>
+    <mo fence="true" stretchy="true">|</mo>
+   </mrow>
+  </mrow>
+  <annotation encoding="StarMath 5.0">{d{dot ε}} over {dT} &gt; left lline {d{dot ε}_{cool}} over {dT} right rline</annotation>
+ </semantics>
+</math>
