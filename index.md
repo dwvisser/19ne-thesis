@@ -45,6 +45,17 @@ version, I have tried to format it similarly to the original. However, I do
 occasionally make small corrections. I've highlighted these with
 <span class="correction">distinct formatting</span>.
 
+For now, some browsers may incorrectly render equations. This is likely due
+to using HTTPS to access the pages. Certain resources are being loaded with
+non-secure HTTP. See [Mixed
+Content](https://developer.mozilla.org/en-US/docs/Security/MixedContent)
+for details. The solution is to use the `http://` form of the URL rather
+than the `https://` form. If you are using [HTTPS
+Everywhere](https://www.eff.org/https-everywhere) in Chrome, going to
+"Incognito Mode" will usually allow you to load HTTP pages. If you
+are using HTTPS Everywhere in Firefox, it is possible to create an exception
+for `*.github.io`.
+
 GitHub Project
 --------------
 
