@@ -15,10 +15,16 @@ layout: default
   introduction to the Study of Stellar
   Structure](http://isbndb.com/book/introduction_to_the_study_of_stellar_structure).
   Chicago, University of Chicago Press.
+* <a name="clayton">Clayton, D. and F. Hoyle</a>. "Gamma-ray Lines from Novae"
+  [Astrophysical Journal __187__: L101-103](http://dx.doi.org/10.1086/181406).
 * <a name="fukuda">Fukuda, S., Y. Fukuda, et al. 2001</a>. "Solar
   <sup>8</sup>B and hep neutrino measurements from 1258 days of
   Super-Kamiokande data." [Physical Review Letters __86__(25):
   5651-5655](http://dx.doi.org/10.1103/PhysRevLett.86.5651).
+* <a name="hernanz">Hernanz, M., J. José, et al. (1999)</a>. "Gamma-ray
+  emission from novae related to positron ahhihilation: Constraints on its
+  observability posed by new experimental nuclear data." [Astrophysical
+  Journal __526__(2): L97-L100](http://dx.doi.org/10.1086/312372).
 * <a name="marschall">Marschall, L. A. (1988)</a>. Why Stars Explode. [The 
   Supernova Story](http://isbndb.com/book/the_supernova_story). Princeton, NJ,
   Princeton University Press: 129.
