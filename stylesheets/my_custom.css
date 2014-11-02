@@ -108,8 +108,15 @@ blockquote cite {
 	max-width: 84%;
 }
 
+.data th {
+	font-style: italic;
+	text-decoration: underline;
+	border-style: none;
+}
+
 .data td {
 	text-align: right;
+	border-style: none;
 }
 
 .data caption {
