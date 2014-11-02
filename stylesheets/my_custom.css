@@ -102,3 +102,16 @@ blockquote {
 blockquote cite {
 	font-style: italic;
 }
+
+.data {
+	margin-left: 8%;
+	max-width: 84%;
+}
+
+.data td {
+	text-align: right;
+}
+
+.data caption {
+	text-align: left;
+}
