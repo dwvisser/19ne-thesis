@@ -21,6 +21,9 @@ layout: default
   <sup>8</sup>B and hep neutrino measurements from 1258 days of
   Super-Kamiokande data." [Physical Review Letters __86__(25):
   5651-5655](http://dx.doi.org/10.1103/PhysRevLett.86.5651).
+* <a name="goldsmith">Goldsmith, D. and N. Cohen (1991)</a>. [Mysteries of the
+  Milky Way](http://isbndb.com/book/mysteries_of_the_milky_way). Chicago, IL,
+  Contemporary Books, Inc.
 * <a name="hernanz">Hernanz, M., J. José, et al. (1999)</a>. "Gamma-ray
   emission from novae related to positron ahhihilation: Constraints on its
   observability posed by new experimental nuclear data." [Astrophysical

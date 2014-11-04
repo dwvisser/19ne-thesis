@@ -17,7 +17,8 @@ Site Contents
 * Chapter 1: Introduction to Explosive Nucleosynthesis
     + [§1.1 Stellar nucleosynthesis]({{site.baseurl}}/1.1/)
     + [§1.2 White dwarves and novae]({{site.baseurl}}/1.2/)
-    + §1.3 Neutron stars and x-ray bursters (pending)
+    + [§1.3 Neutron stars and x-ray bursters]({{site.baseurl}}/1.3/) (under
+      construction)
 * Chapter 2: Present Status of <sup>19</sup>Ne's role in Nuclear Astrophysics
   (pending)
     + §2.1 Nuclear burning through resonances
