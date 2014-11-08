@@ -2,6 +2,8 @@
 title: Acknowledgements
 permalink: /acknowledgements/
 layout: default
+previous: /abstract/
+next: /dedication/
 ---
 
 # ACKNOWLEDGEMENTS

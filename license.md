@@ -2,6 +2,8 @@
 title: PLoS Open Access License
 permalink: /license/
 layout: default
+previous: /title-page/
+next: /abstract/
 ---
 
 <h1 class="title-block">

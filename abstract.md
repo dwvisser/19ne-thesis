@@ -2,6 +2,8 @@
 title: Abstract
 permalink: /abstract/
 layout: default
+previous: /license/
+next: /acknowledgements/
 ---
 
 # ABSTRACT

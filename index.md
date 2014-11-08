@@ -1,6 +1,6 @@
 ---
 title: Ne-19 Thesis
-layout: default
+layout: index
 ---
 
 Particle Decay Branching Ratios for States of Astrophysical Importance in <sup>19</sup>Ne

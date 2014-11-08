@@ -2,6 +2,7 @@
 title: Title Page
 permalink: /title-page/
 layout: default
+next: /license/
 ---
 
 Particle Decay Branching Ratios for States of Astrophysical Importance in

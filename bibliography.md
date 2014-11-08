@@ -2,6 +2,7 @@
 title: Bibliography
 permalink: /bibliography/
 layout: default
+previous: /1.3/
 ---
 
 # Bibliography
