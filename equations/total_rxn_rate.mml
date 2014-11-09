@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mrow>
+    <mi>r</mi>
+    <mo stretchy="false">=</mo>
+    <msub>
+     <mi>N</mi>
+     <mi>l</mi>
+    </msub>
+   </mrow>
+   <msub>
+    <mi>N</mi>
+    <mi>a</mi>
+   </msub>
+   <mrow>
+    <mo fence="true" stretchy="false">⟨</mo>
+    <mrow>
+     <mrow>
+      <mi mathvariant="normal">σ</mi>
+      <mi mathvariant="normal">ν</mi>
+     </mrow>
+    </mrow>
+    <mo fence="true" stretchy="false">⟩</mo>
+   </mrow>
+  </mrow>
+  <annotation encoding="StarMath 5.0">r = N_{l} N_{a} langle %sigma %nu  rangle </annotation>
+ </semantics>
+</math>
