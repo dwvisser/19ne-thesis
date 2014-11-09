@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mrow>
+    <mo fence="true" stretchy="false">⟨</mo>
+    <mrow>
+     <mrow>
+      <mi mathvariant="normal">σ</mi>
+      <mi mathvariant="normal">ν</mi>
+     </mrow>
+    </mrow>
+    <mo fence="true" stretchy="false">⟩</mo>
+   </mrow>
+   <mo stretchy="false">=</mo>
+   <mrow>
+    <munderover>
+     <mo stretchy="false">∫</mo>
+     <mn>0</mn>
+     <mi mathvariant="normal">∞</mi>
+    </munderover>
+    <mrow>
+     <mi mathvariant="normal">φ</mi>
+     <mrow>
+      <mo fence="true" stretchy="false">(</mo>
+      <mrow>
+       <mi mathvariant="normal">ν</mi>
+      </mrow>
+      <mo fence="true" stretchy="false">)</mo>
+     </mrow>
+     <mi mathvariant="normal">ν</mi>
+     <mi mathvariant="normal">σ</mi>
+     <mrow>
+      <mo fence="true" stretchy="false">(</mo>
+      <mrow>
+       <mi mathvariant="normal">ν</mi>
+      </mrow>
+      <mo fence="true" stretchy="false">)</mo>
+     </mrow>
+     <mrow>
+      <mi>d</mi>
+      <mi mathvariant="normal">ν</mi>
+      <mtext/>
+     </mrow>
+    </mrow>
+   </mrow>
+  </mrow>
+  <annotation encoding="StarMath 5.0">langle %sigma %nu  rangle = int from{0} to{ %infinite } { %varphi  ( %nu ) %nu %sigma ( %nu ) {d %nu%}}</annotation>
+ </semantics>
+</math>

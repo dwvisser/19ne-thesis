@@ -19,8 +19,8 @@ Site Contents
     + [§1.2 White dwarves and novae]({{site.baseurl}}/1.2/)
     + [§1.3 Neutron stars and x-ray bursters]({{site.baseurl}}/1.3/)
 * Chapter 2: Present Status of <sup>19</sup>Ne's role in Nuclear Astrophysics
-  (pending)
-    + §2.1 Nuclear burning through resonances
+  (under construction)
+    + [§2.1 Nuclear burning through resonances]({{site.baseurl}}/2.1/) (under construction)
     + §2.2 Production of <sup>19</sup>F in Novae
         + §2.2.1 Sensitivity to resonances in <sup>19</sup>Ne
         + §2.2.2 Proton resonances in <sup>19</sup>Ne
