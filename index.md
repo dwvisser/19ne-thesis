@@ -32,6 +32,11 @@ Site Contents
   (pending)
 * Chapter 4: Results and Analysis (pending)
 * Chapter 5: Discussion and Conclusions (pending)
+    + §5.1 Comparison to prior results (pending)
+        + §5.1.1 The standard appoach
+        + §5.1.2 An alternative Bayesian approach
+        + §5.1.3 Application of the Bayesian approach
+        + [§5.1.4 Discussion]({{site.baseurl}}/5.1.4/) (under construction)
 * Appendix A: Monte Carlo Algorithm for Determining Efficiency (pending)
 * Appendix B: Mathematica fitting example: W(θ) for Γ<sub>α</sub>/Γ of
   E<sub>x</sub>=4.600 MeV (pending)
