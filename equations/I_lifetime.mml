@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mi mathvariant="normal">τ</mi>
+   <mrow>
+    <mrow>
+     <mo fence="true" stretchy="false">(</mo>
+     <mrow>
+      <mi>A</mi>
+     </mrow>
+     <mo fence="true" stretchy="false">)</mo>
+    </mrow>
+    <mo stretchy="false">=</mo>
+    <mfrac>
+     <mn>1</mn>
+     <mrow>
+      <msub>
+       <mi>N</mi>
+       <mi>I</mi>
+      </msub>
+      <mrow>
+       <mo fence="true" stretchy="false">⟨</mo>
+       <mrow>
+        <mrow>
+         <mi mathvariant="normal">σ</mi>
+         <mi mathvariant="normal">ν</mi>
+        </mrow>
+       </mrow>
+       <mo fence="true" stretchy="false">⟩</mo>
+      </mrow>
+     </mrow>
+    </mfrac>
+   </mrow>
+  </mrow>
+  <annotation encoding="StarMath 5.0">%tau(A) = {1} over { N_{I} langle %sigma%nu rangle } </annotation>
+ </semantics>
+</math>
