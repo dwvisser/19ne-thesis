@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mi mathvariant="normal">γ</mi>
+   <mo stretchy="false">=</mo>
+   <mfrac>
+    <mrow>
+     <msub>
+      <mi mathvariant="normal">Γ</mi>
+      <mi>a</mi>
+     </msub>
+     <msub>
+      <mi mathvariant="normal">Γ</mi>
+      <mi>b</mi>
+     </msub>
+    </mrow>
+    <mi mathvariant="normal">Γ</mi>
+   </mfrac>
+  </mrow>
+  <annotation encoding="StarMath 5.0">%gamma= { %GAMMA_a %GAMMA_b} over { %GAMMA } </annotation>
+ </semantics>
+</math>
