@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mrow>
+    <mrow>
+     <mo fence="true" stretchy="false">⟨</mo>
+     <mrow>
+      <mrow>
+       <mi mathvariant="normal">σ</mi>
+       <mi mathvariant="normal">ν</mi>
+      </mrow>
+     </mrow>
+     <mo fence="true" stretchy="false">⟩</mo>
+    </mrow>
+    <mo stretchy="false">=</mo>
+    <msup>
+     <mrow>
+      <mo fence="true" stretchy="true">(</mo>
+      <mrow>
+       <mfrac>
+        <mrow>
+         <mn>2</mn>
+         <mi mathvariant="normal">π</mi>
+        </mrow>
+        <mrow>
+         <mi mathvariant="normal">μ</mi>
+         <mi mathvariant="italic">kT</mi>
+        </mrow>
+       </mfrac>
+      </mrow>
+      <mo fence="true" stretchy="true">)</mo>
+     </mrow>
+     <mrow>
+      <mn>3</mn>
+      <mo stretchy="false">/</mo>
+      <mn>2</mn>
+     </mrow>
+    </msup>
+   </mrow>
+   <msup>
+    <mi mathvariant="normal">ℏ</mi>
+    <mn>2</mn>
+   </msup>
+   <msub>
+    <mrow>
+     <mo fence="true" stretchy="false">(</mo>
+     <mrow>
+      <mrow>
+       <mi mathvariant="normal">ω</mi>
+       <mi mathvariant="normal">γ</mi>
+      </mrow>
+     </mrow>
+     <mo fence="true" stretchy="false">)</mo>
+    </mrow>
+    <mi>R</mi>
+   </msub>
+   <mi>exp</mi>
+   <mrow>
+    <mo fence="true" stretchy="true">(</mo>
+    <mrow>
+     <mfrac>
+      <mrow>
+       <mo stretchy="false">−</mo>
+       <msub>
+        <mi>E</mi>
+        <mi>R</mi>
+       </msub>
+      </mrow>
+      <mi mathvariant="italic">kT</mi>
+     </mfrac>
+    </mrow>
+    <mo fence="true" stretchy="true">)</mo>
+   </mrow>
+   <mi>f</mi>
+  </mrow>
+  <annotation encoding="StarMath 5.0">langle %sigma %nu rangle = left (  {2 %pi} over { %mu kT}  right ) ^{3/2} hbar^2 ( %omega %gamma ) _R exp left ( - {E_R} over {kT} right ) f</annotation>
+ </semantics>
+</math>
