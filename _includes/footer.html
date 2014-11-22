@@ -1,0 +1,15 @@
+<table class="sitenav-bottom">
+	<tr>
+		<td>
+			{% if page.previous %}
+				<a href="{{site.baseurl}}{{page.previous}}">Previous</a>
+			{% endif %}
+		</td>
+		<td><a href="{{site.baseurl}}/">TOC</a></td>
+		<td>
+			{% if page.next %}
+				<a href="{{site.baseurl}}{{page.next}}">Next</a>
+			{% endif %}
+		</td>
+	</tr>
+</table>

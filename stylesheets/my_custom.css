@@ -122,3 +122,9 @@ blockquote cite {
 .data caption {
 	text-align: left;
 }
+
+.sitenav-bottom td {
+	border-style: solid none none;
+	border-top-color: #E5E5E5;
+	border-top-width: 1px;
+}
