@@ -38,6 +38,9 @@ previous: /2.1/
 * <a name="rolfs">Rolfs, C. E. and W. S. Rodney (1988)</a>. [Cauldrons in the
   Cosmos](http://isbndb.com/book/cauldrons_in_the_cosmos_a01). Chicago and
   London, The University of Chicago Press.
+* <a name="salpeter">Salpeter, E. E. (1954)</a>. "Electron screening and
+  thermonuclear reactions." [Australian Jounal of
+  Physics __7__:373](http://dx.doi.org/10.1071/PH540373).
 * <a name="weischer">Wiescher, M., J. Görres, et al. (1999)</a> "Break-out
   reactions from the CNO cycles." [J. Phys. G: Nucl. Part. Phys. 
   __25__: R133-161](http://dx.doi.org/10.1088/0954-3899/25/6/201).
