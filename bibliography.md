@@ -12,6 +12,10 @@ previous: /2.1/
   <sup>8</sup>B solar neutrinos at the Sudbury Neutrino Observatory."
   [Physical Review
   Letters __87__(7)](http://dx.doi.org/10.1103/PhysRevLett.87.071301).
+* <a name="brussard">Brussard, P.J. and P.W.M. Glaudemans (1977)</a>.
+  [Shell-model applications in nuclear
+  spectroscopy](http://isbndb.com/book/shell_model_applications_in_nuclear_spectroscopy).
+  Amsterdam, North-Holland Publishing Company.
 * <a name="chandrasekhar">Chandrasekhar, S. (1939)</a>. [An
   introduction to the Study of Stellar
   Structure](http://isbndb.com/book/introduction_to_the_study_of_stellar_structure).
