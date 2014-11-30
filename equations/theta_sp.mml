@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mrow>
+    <msubsup>
+     <mi mathvariant="normal">θ</mi>
+     <mi mathvariant="italic">sp</mi>
+     <mn>2</mn>
+    </msubsup>
+    <mo stretchy="false">=</mo>
+    <mfrac>
+     <msub>
+      <mi>a</mi>
+      <mi>c</mi>
+     </msub>
+     <mn>2</mn>
+    </mfrac>
+   </mrow>
+   <msubsup>
+    <mi mathvariant="normal">ϕ</mi>
+    <mi>l</mi>
+    <mn>2</mn>
+   </msubsup>
+   <mrow>
+    <mo fence="true" stretchy="false">(</mo>
+    <mrow>
+     <msub>
+      <mi>a</mi>
+      <mi>c</mi>
+     </msub>
+    </mrow>
+    <mo fence="true" stretchy="false">)</mo>
+   </mrow>
+  </mrow>
+  <annotation encoding="StarMath 5.0">%theta_sp^2 = {a_c} over {2} %phi_l^2( a_c )</annotation>
+ </semantics>
+</math>

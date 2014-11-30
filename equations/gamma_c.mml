@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mrow>
+    <msub>
+     <mi mathvariant="normal">Γ</mi>
+     <mi>c</mi>
+    </msub>
+    <mo stretchy="false">=</mo>
+    <mn>2</mn>
+   </mrow>
+   <msub>
+    <mi>P</mi>
+    <mi>c</mi>
+   </msub>
+   <mrow>
+    <mo fence="true" stretchy="true">(</mo>
+    <mrow>
+     <mfrac>
+      <msup>
+       <mi>ℏ</mi>
+       <mn>2</mn>
+      </msup>
+      <mrow>
+       <msub>
+        <mi mathvariant="normal">μ</mi>
+        <mi>c</mi>
+       </msub>
+       <msubsup>
+        <mi>a</mi>
+        <mi>c</mi>
+        <mn>2</mn>
+       </msubsup>
+      </mrow>
+     </mfrac>
+    </mrow>
+    <mo fence="true" stretchy="true">)</mo>
+   </mrow>
+   <msup>
+    <mi>C</mi>
+    <mn>2</mn>
+   </msup>
+   <mi>S</mi>
+   <msubsup>
+    <mi mathvariant="normal">θ</mi>
+    <mi mathvariant="italic">sp</mi>
+    <mn>2</mn>
+   </msubsup>
+  </mrow>
+  <annotation encoding="StarMath 5.0">%GAMMA _c = 2P_c left ( {ℏ^2} over {%mu_c a_c^2} right ) C^2 S %theta_sp^2</annotation>
+ </semantics>
+</math>
