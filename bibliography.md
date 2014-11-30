@@ -29,6 +29,9 @@ previous: /2.1/
   emission from novae related to positron ahhihilation: Constraints on its
   observability posed by new experimental nuclear data." [Astrophysical
   Journal __526__(2): L97-L100](http://dx.doi.org/10.1086/312372).
+* <a name="iliadis97">Iliadis, C. (1997)</a>. "Proton single-particle widths
+  for unbound states." [Nuclear Physics A __618__(1-2):
+  166-175](http://dx.doi.org/10.1016/S0375-9474(97)00065-1).
 * <a name="marschall">Marschall, L. A. (1988)</a>. Why Stars Explode. [The 
   Supernova Story](http://isbndb.com/book/the_supernova_story). Princeton, NJ,
   Princeton University Press: 129.
