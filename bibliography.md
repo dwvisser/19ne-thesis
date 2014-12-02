@@ -2,7 +2,7 @@
 title: Bibliography
 permalink: /bibliography/
 layout: default
-previous: /2.1/
+previous: /5.1.4/
 ---
 
 # Bibliography
@@ -36,6 +36,10 @@ previous: /2.1/
 * <a name="iliadis97">Iliadis, C. (1997)</a>. "Proton single-particle widths
   for unbound states." [Nuclear Physics A __618__(1-2):
   166-175](http://dx.doi.org/10.1016/S0375-9474(97)00065-1).
+* <a name="magnus90">Magnus, P. V., M. S. Smith et al. (1990)</a>.
+  "Measurement of <sup>15</sup>O(α,γ)<sup>19</sup>Ne Resonance Strengths."
+  [Nuclear Physics A __506__(2):
+  332-345](http://dx.doi.org/10.1016/0375-9474(90)90390-8).
 * <a name="marschall">Marschall, L. A. (1988)</a>. Why Stars Explode. [The 
   Supernova Story](http://isbndb.com/book/the_supernova_story). Princeton, NJ,
   Princeton University Press: 129.
@@ -48,6 +52,12 @@ previous: /2.1/
 * <a name="salpeter">Salpeter, E. E. (1954)</a>. "Electron screening and
   thermonuclear reactions." [Australian Jounal of
   Physics __7__:373](http://dx.doi.org/10.1071/PH540373).
+* <a name="utku">Utku, S., J. G. Ross, et al. (1998)</a>. "Breakout from the
+  hot CNO cycle: The <span class="nowrap"><sup>18</sup>F(p,γ)</span> vs.
+  <span class="nowrap"><sup>18</sup>F(p,α)</span> branching ratio." [Physical 
+  Review C __57__(5): 2731-2739](http://dx.doi.org/10.1103/PhysRevC.57.2731); 
+  [Physical Review C __58__:1354e
+  (1998)](http://dx.doi.org/10.1103/PhysRevC.58.1354).
 * <a name="weischer">Wiescher, M., J. Görres, et al. (1999)</a> "Break-out
   reactions from the CNO cycles." [J. Phys. G: Nucl. Part. Phys. 
   __25__: R133-161](http://dx.doi.org/10.1088/0954-3899/25/6/201).
