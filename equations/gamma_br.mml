@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+ <semantics>
+  <mrow>
+   <mrow>
+    <mi mathvariant="normal">γ</mi>
+    <mo stretchy="false">=</mo>
+    <mrow>
+     <mo fence="true" stretchy="true">(</mo>
+     <mrow>
+      <mfrac>
+       <msub>
+        <mi mathvariant="normal">Γ</mi>
+        <mi>a</mi>
+       </msub>
+       <mi mathvariant="normal">Γ</mi>
+      </mfrac>
+     </mrow>
+     <mo fence="true" stretchy="true">)</mo>
+    </mrow>
+   </mrow>
+   <mrow>
+    <mo fence="true" stretchy="true">(</mo>
+    <mrow>
+     <mfrac>
+      <msub>
+       <mi mathvariant="normal">Γ</mi>
+       <mi>b</mi>
+      </msub>
+      <mi mathvariant="normal">Γ</mi>
+     </mfrac>
+    </mrow>
+    <mo fence="true" stretchy="true">)</mo>
+   </mrow>
+   <mi mathvariant="normal">Γ</mi>
+  </mrow>
+  <annotation encoding="StarMath 5.0">%gamma = left ( { %GAMMA_a} over { %GAMMA }  right ) left ( { %GAMMA_b} over { %GAMMA }  right ) %GAMMA</annotation>
+ </semantics>
+</math>

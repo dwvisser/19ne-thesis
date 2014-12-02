@@ -88,7 +88,7 @@ ul {
 }
 
 .correction {
-	color: #9F4EAD;
+	border: solid 1px red;
 }
 
 cite {
