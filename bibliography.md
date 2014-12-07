@@ -12,6 +12,11 @@ previous: /5.1.4/
   <sup>8</sup>B solar neutrinos at the Sudbury Neutrino Observatory."
   [Physical Review
   Letters __87__(7)](http://dx.doi.org/10.1103/PhysRevLett.87.071301).
+* <a name="bardayan01">Bardayan, D.W., J.C. Blackmon, et al. (2001)</a>.
+  "Destruction of <sup>18</sup>F via
+  <span class="nowrap"><sup>18</sup>F(p,α)<sup>15</sup>O</span> burning
+  through the E<sub>c.m.</sub>=665 keV resonance." [Physical Review C
+  __63__(065802)](http://dx.doi.org/10.1103/PhysRevC.63.065802).
 * <a name="brussard">Brussard, P.J. and P.W.M. Glaudemans (1977)</a>.
   [Shell-model applications in nuclear
   spectroscopy](http://isbndb.com/book/shell_model_applications_in_nuclear_spectroscopy).
@@ -22,6 +27,12 @@ previous: /5.1.4/
   Chicago, University of Chicago Press.
 * <a name="clayton">Clayton, D. and F. Hoyle</a>. "Gamma-ray Lines from Novae"
   [Astrophysical Journal __187__: L101-103](http://dx.doi.org/10.1086/181406).
+* <a name="davids">Davids, B., A. M. van den Berg, et al. (2003)</a>. "Decay
+  branching ratio Γ<sub>α</sub>/Γ for the 4.033 MeV state in <sup>19</sup>Ne
+  and the rate of
+  <span class="nowrap"><sup>15</sup>O(α,γ)<sup>19</sup>Ne</span> in novae and
+  accreting neutron stars." [Physical Review C
+  __67__(012801): 4](http://dx.doi.org/10.1103/PhysRevC.67.012801).
 * <a name="fukuda">Fukuda, S., Y. Fukuda, et al. 2001</a>. "Solar
   <sup>8</sup>B and hep neutrino measurements from 1258 days of
   Super-Kamiokande data." [Physical Review Letters __86__(25):
@@ -46,6 +57,15 @@ previous: /5.1.4/
 * <a name="pathria">Pathria, R. K. (1996)</a>. [Statistical
   Mechanics](http://store.elsevier.com/product.jsp?isbn=9780080541716&pagename=search).
   Oxford, Butterworth-Heineman.
+* <a name="rehm02">Rehm, K.E., A. H. Wuosmaa, et al. (2002)</a>. "The
+  Branching Ratio Γ<sub>α</sub>/Γ of the 4.033 MeV state in <sup>19</sup>Ne".
+  Fall Meeting of the Division of Nuclear Physics, East Lansing, MI, [Bulletin
+  of the American Physical Society __47__: 67](./#rehm02) __aps.org link needs to be
+  added here.__
+* <a name="rehm03">Rehm, K. E. (2003)</a>. E-mail R.E. <sup>19</sup>Ne α-branching
+  ratios. D. W. Visser. <span class="correction">Most likely this was informing me of results soon to
+  be reported in [Physical Review C
+  __67__(065809)](http://dx.doi.org/10.1103/PhysRevC.67.065809).</span>
 * <a name="rolfs">Rolfs, C. E. and W. S. Rodney (1988)</a>. [Cauldrons in the
   Cosmos](http://isbndb.com/book/cauldrons_in_the_cosmos_a01). Chicago and
   London, The University of Chicago Press.
