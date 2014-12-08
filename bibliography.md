@@ -60,8 +60,8 @@ previous: /5.1.4/
 * <a name="rehm02">Rehm, K.E., A. H. Wuosmaa, et al. (2002)</a>. "The
   Branching Ratio Γ<sub>α</sub>/Γ of the 4.033 MeV state in <sup>19</sup>Ne".
   Fall Meeting of the Division of Nuclear Physics, East Lansing, MI, [Bulletin
-  of the American Physical Society __47__: 67](./#rehm02) __aps.org link needs to be
-  added here.__
+  of the American Physical Society __47__:
+  67](http://flux.aps.org/meetings/YR02/DNP02/baps/abs/S960001.html)
 * <a name="rehm03">Rehm, K. E. (2003)</a>. E-mail R.E. <sup>19</sup>Ne α-branching
   ratios. D. W. Visser. <span class="correction">Most likely this was informing me of results soon to
   be reported in [Physical Review C
