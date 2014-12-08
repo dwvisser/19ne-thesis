@@ -64,8 +64,8 @@ GitHub Project
 --------------
 
 * [dwvisser/19ne-thesis](https://github.com/dwvisser/19ne-thesis)
-* Download [ZIP File](https://github.com/dwvisser/19ne-thesis/zipball/master)
-* Download [TAR Ball](https://github.com/dwvisser/19ne-thesis/tarball/master)
+* Download [ZIP File](https://github.com/dwvisser/19ne-thesis/zipball/gh-pages)
+* Download [TAR Ball](https://github.com/dwvisser/19ne-thesis/tarball/gh-pages)
 
 Once you've cloned the repo:
 ----------------------------
