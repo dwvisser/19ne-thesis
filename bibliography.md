@@ -37,6 +37,8 @@ previous: /5.1.4/
   <sup>8</sup>B and hep neutrino measurements from 1258 days of
   Super-Kamiokande data." [Physical Review Letters __86__(25):
   5651-5655](http://dx.doi.org/10.1103/PhysRevLett.86.5651).
+* <a name ="garrett">Garret, J. D., R. Middleton, et al. (1970)</a>. "Hole
+  States in <sup>19</sup>Ne" [Physical Review C __2__(4): 1243-1254](https://doi.org/10.1103/PhysRevC.2.1243)
 * <a name="goldsmith">Goldsmith, D. and N. Cohen (1991)</a>. [Mysteries of the
   Milky Way](http://isbndb.com/book/mysteries_of_the_milky_way). Chicago, IL,
   Contemporary Books, Inc.

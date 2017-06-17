@@ -31,6 +31,18 @@ Site Contents
   <span class="nowrap"><sup>19</sup>F(³He,t)<sup>19</sup>Ne(x<sub>1</sub>)x<sub>2</sub></span>
   (pending)
 * Chapter 4: Results and Analysis (pending)
+    + §4.1 YLSA Efficiency (pending)
+    + §4.2 Particle ID (pending)
+    + §4.3 Kinematic Selection of Decays (pending)
+    + §4.4 Extraction of Branching ratios (pending)
+    + §4.5 Branching ratios above the α-threshold (E<sub>x</sub>=3.529 MeV)
+      (pending)
+    + §4.6 Branching ratios above the proton threshold
+      (E<sub>x</sub>=6.411 MeV) (pending)
+        + [§4.6.1 E<sub>x</sub>=6.742 MeV]({{site.baseurl}}/4.6.1) (under construction)
+        + §4.6.2 E<sub>x</sub>=6.861 MeV (pending)
+        + §4.6.3 E<sub>x</sub>=7.070 MeV (pending)
+        + §4.6.4 E<sub>x</sub>=7.500 MeV (pending)
 * Chapter 5: Discussion and Conclusions (pending)
     + §5.1 Comparison to prior results (pending)
         + §5.1.1 The standard appoach
