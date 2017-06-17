@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+    <msubsup>
+        <mn>0.58</mn>
+        <mrow>
+        <mo stretchy="false">−</mo>
+        <mn>0.12</mn>
+        </mrow>
+        <mrow>
+        <mo stretchy="false">+</mo>
+        <mn>0.22</mn>
+        </mrow>
+    </msubsup>
+</math>
