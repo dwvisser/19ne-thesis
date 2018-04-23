@@ -20,4 +20,6 @@ locally:
 6. Open [localhost:4000](http://localhost:4000) in your favorite web browser.
 
 *Note:* You'll need [Ruby](http://www.ruby-lang.org/) and the 
-[Bundler package manager](http://gembundler.com/).
+[Bundler package manager](http://gembundler.com/). On Ubuntu, if you're having
+trouble installing gem native extensions, see https://github.com/eventmachine/eventmachine/issues/442#issuecomment-24564433
+
