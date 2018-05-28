@@ -11,6 +11,10 @@ body {
 	color: #444;
 }
 
+p {
+	line-height: 150%;
+}
+
 a {
 	text-decoration: none;
 	color: #333;
