@@ -4,7 +4,7 @@
 ## Dissertation: Particle Decay Branching Ratios for States of Astrophysical Importance in 19-Ne
 
 The site is viewable at
-[http://dwvisser.github.io/19ne-thesis](http://dwvisser.github.io/19ne-thesis).
+[https://dwvisser.github.io/19ne-thesis](https://dwvisser.github.io/19ne-thesis).
 
 ### Running Locally
 
